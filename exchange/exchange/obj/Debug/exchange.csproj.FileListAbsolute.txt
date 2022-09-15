@@ -1,0 +1,8 @@
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\obj\Debug\exchange.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\obj\Debug\exchange.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\obj\Debug\exchange.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\bin\Debug\exchange.exe.config
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\bin\Debug\exchange.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\bin\Debug\exchange.pdb
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\obj\Debug\exchange.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\exchange\exchange\obj\Debug\exchange.pdb
